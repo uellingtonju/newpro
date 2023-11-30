@@ -1,9 +1,9 @@
-
+import './Header.css'
 
 function Header() {
   return (
    
-      <header className="cima">
+      <header className="header">
         <span>Link.dev</span>
         <nav>
           <a href="">Home</a>
